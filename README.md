@@ -125,6 +125,12 @@ In the non-thinking mode, ERNIE-4.5-VL exhibits outstanding proficiency in visua
 <img src="https://yiyan.baidu.com/blog/posts/ernie4.5/chat_model_benchmark1.png" style="max-width: 80%; height: auto;">
 </div>
 
+### Performance of post-trained model ERNIE-4.5-21B-A3B
+
+<div align="center">
+<img src="https://yiyan.baidu.com/blog/posts/ernie4.5/chat_model_benchmark2.png" style="max-width: 80%; height: auto;">
+</div>
+
 ### Performance of post-trained multimodal models in thinking mode
 
 <div align="center">
